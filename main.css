@@ -228,6 +228,10 @@ article:nth-of-type(6) .imgdosprojetos{
     background-image: url(Projetos/Portfolio1/Background6.png);
 }
 
+article:nth-of-type(7) .imgdosprojetos{
+    background-image: url(Projetos/Prime-Flix-React/Background7.png);
+}
+
 
  #projetos article:hover{
     background-color:#07271F
